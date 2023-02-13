@@ -7,7 +7,7 @@
 I'm mostly interested in:
 - web exploitation
 - RISC-V/ARM development
-- 
+
 ### Skills
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css,bootstrap,tailwind,react,nextjs,mysql)
 
