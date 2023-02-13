@@ -5,7 +5,7 @@
 
 ### Interests
 I'm mostly interested in:
-- web exploitation
+- Web exploitation
 - RISC-V/ARM development
 
 ### Skills
